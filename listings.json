@@ -1,0 +1,17 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/sites/asumistuki/asumistuki.html",
+      "/sites/kuntoutus/kuntoutus.html",
+      "/sites/opintoetuus/opintoetuus.html",
+      "/sites/perhe-etuus/perhe-etuus.html",
+      "/sites/toimeentulotuki/toimeentulotuki.html",
+      "/sites/sairausvakuutus/sairausvakuutus.html",
+      "/sites/sotilasavustus/sotilasavustus.html",
+      "/sites/tyoterveyshuolto/tyoterveyshuolto.html",
+      "/sites/tyottomyysturva/tyottomyysturva.html",
+      "/sites/vammaisetuus/vammaisetuus.html"
+    ]
+  }
+]
